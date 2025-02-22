@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://123raushan.github.io")
 @RestController
 @RequestMapping("/api")
 public class LoginController {
